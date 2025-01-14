@@ -1,0 +1,4 @@
+src-git passwall https://github.com/xiaorouji/openwrt-passwall2
+src-git xiaorouji https://github.com/xiaorouji/openwrt-passwall-packages
+src-git autotimeset https://github.com/sirpdboy/luci-app-autotimeset
+src-git sundaqiang https://github.com/sundaqiang/openwrt-packages
